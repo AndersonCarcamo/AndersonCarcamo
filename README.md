@@ -1,6 +1,6 @@
 # Hi, I'm Anderson Cárcamo 👋
 
-**Full Stack Developer & Computer Science graduate (UTEC, Lima · Dec 2025)**  
+**Full Stack Developer & Computer Science (UTEC, Lima · December 2026)**  
 Building production systems · Backend-heavy · Python & TypeScript
 
 ---
@@ -95,4 +95,4 @@ Compiler front-end in C++ covering lexical analysis, syntax parsing, and semanti
 
 ---
 
-*Computer Science @ UTEC Lima · Background in Mechatronics · English B2*
+*Computer Science @ UTEC Lima · English B2*
